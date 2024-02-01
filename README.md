@@ -1,4 +1,4 @@
-<div style="text-align: center; font-size: xxx-large; margin-top: 1em; margin-bottom: 0.5em;"> <strong>EasyTool</strong> </div>
+# EasyTool
 <div style="text-align: center;"> EasyTool 多功能插件工具集</div>
 <div style="text-align: center;">
     <img src="https://img.shields.io/jetbrains/plugin/v/21589" alt="JetBrains Plugin Version" />
