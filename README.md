@@ -1,4 +1,4 @@
-# EasyTool
+<div style="text-align: center; font-size: xxx-large; margin-top: 1em; margin-bottom: 0.5em;"> <strong>EasyTool</strong> </div>
 <div style="text-align: center;"> EasyTool 多功能插件工具集</div>
 <div style="text-align: center;">
     <img src="https://img.shields.io/jetbrains/plugin/v/21589" alt="JetBrains Plugin Version" />
@@ -8,7 +8,7 @@
 ## 简介|Intro
 
 `EasyTool` 是一个支持多平台的插件工具集，具有日常编程过程中常用的功能特性，包括但不限于中英文字符互转、
-中英互译、Swagger2.x 注解一键生成、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗等功能特性。
+中英互译、Swagger2.x 注解一键生成、JavaDoc注释一键生成、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗等功能特性。
 并提供一系列可视化、个性化的配置界面，
 具体功能可在安装插件后尽情体验。
 
@@ -21,11 +21,12 @@
 
 ### 离线安装
 
-打开 [Gitee](https://gitee.com/milubin/easy-tool-plugin)
+打开 [Gitee](https://gitee.com/milubin/easy-tool-plugin) 仓库
 或者 [Github](https://github.com/java-horse/EasyTool-Plugin) 仓库,
-或者打开 [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/21589-easytool/)，
-下载仓库中版本号最新的离线插件源码资源包（非最新版可能会有隐藏小BUG）。
+或者打开 [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/21589-easytool/) 插件市场，
+下载仓库中版本号最新版离线插件源码资源包（非最新版可能会有隐藏小BUG）。
 打开`IDE`的`Setting`页面并搜索`Plugin`，导入插件源码资源包，重启IDE即可
+![离线安装EasyTool插件示例](https://s11.ax1x.com/2024/03/02/pF0WO39.png)
 ![离线安装EasyTool插件示例](https://s11.ax1x.com/2024/01/27/pFn7Fnx.png)
 
 ## 特性|Feature
@@ -62,6 +63,9 @@
 * 一键生成`Swagger2.x`注解
     * 支持根据 `Javadoc` 生成 `Swagger2.x` 相关注解，如果没有 `Javadoc` 会尝试翻译处理(翻译可能会有点慢, 请耐心等待)
     * 支持选中类名、方法名、字段名等细粒度一键生成
+* 一键生成 JavaDoc 注释
+    * 支持一键生成指定类、方法、属性的JavaDoc注释，快捷键: `ALT + M`
+    * 支持自定义JavaDoc生成模板及Groovy脚本值设置
 * `Mybatis Log`日志还原
     * 支持将Mybatis的Console控制台SQL执行日志自动还原为可读的SQL语句，可以自定义SQL还原过滤规则、可设置SQL脚本打印文本颜色
     * 支持选中SQL日志并右键启动SQL还原弹窗进行SQL还原转换处理
@@ -94,9 +98,9 @@
 | ![EasyTool示例](https://s2.loli.net/2024/02/01/mzQrMeI3VuPnJjS.png) | ![EasyTool示例](https://s2.loli.net/2024/02/01/o9H7siMe5AfjpKh.png) |
 | ![EasyTool示例](https://s2.loli.net/2024/02/01/m6fPA9DBwv5Kx21.png) | ![EasyTool示例](https://s2.loli.net/2024/02/01/1mXHVLv9ciBfsEO.png) |
 
-## 捐赠 | Donate
+## 捐赠|Donate
 
-| 平台  |                          --                           |
+| 平台  |                          😀                           |
 |-----|:-----------------------------------------------------:|
 | 微信  |  ![微信](https://s11.ax1x.com/2024/02/01/pFMJ0aD.png)   |
 | 支付宝 |  ![支付宝](https://s11.ax1x.com/2024/02/01/pFMJwVO.png)  |
