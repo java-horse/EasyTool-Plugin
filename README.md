@@ -16,7 +16,8 @@
 ## 简介|Intro
 
 `EasyTool` 是一个支持多平台的插件工具集，具有日常编程过程中常用的功能特性，包括但不限于中英文字符互转、
-中英互译、Swagger2.x 注解一键生成、JavaDoc注释一键生成、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗等功能特性。
+中英互译、Swagger2.x 注解一键生成、JavaDoc注释一键生成、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗、Background
+Image Plus背景图轮播等功能特性。
 并提供一系列可视化、个性化的配置界面，
 具体功能可在安装插件后尽情体验。
 
@@ -62,6 +63,8 @@
         * 小牛翻译（推荐）
         * 彩云翻译
         * 同花顺翻译
+        * CNKI学术翻译
+        * 有道翻译（Free）
         * 微软翻译（API）
         * 微软翻译（Free）
         * 谷歌翻译（API）
