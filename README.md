@@ -1,15 +1,27 @@
 <div style="text-align: center; font-size: xxx-large; margin-top: 1em; margin-bottom: 0.5em;"> <strong>EasyTool</strong> </div>
 <div style="text-align: center;"> EasyTool 多功能插件工具集</div>
 <div style="text-align: center;">
-    <p>    
-        <img src="https://gitee.com/milubin/easy-tool-plugin/badge/star.svg" alt="Gitee Start" />
-        <img src="https://img.shields.io/github/license/java-horse/EasyTool-Plugin" alt="Github license" />
-        <img src="https://img.shields.io/github/followers/java-horse" alt="Github followers" />
+    <p>
+        <a href="https://gitee.com/milubin/easy-tool-plugin/badge/star.svg" target="_blank">
+            <img src="https://gitee.com/milubin/easy-tool-plugin/badge/star.svg" alt="Gitee Start" />
+        </a>
+        <a href="https://img.shields.io/github/license/java-horse/EasyTool-Plugin" target="_blank">
+            <img src="https://img.shields.io/github/license/java-horse/EasyTool-Plugin" alt="Github license" />
+        </a>
+        <a href="https://img.shields.io/github/followers/java-horse" target="_blank">
+            <img src="https://img.shields.io/github/followers/java-horse" alt="Github followers" />
+        </a>
     </p>
     <p>
-        <img src="https://img.shields.io/jetbrains/plugin/v/21589" alt="JetBrains Plugin Version" />
-        <img src="https://img.shields.io/jetbrains/plugin/d/21589" alt="JetBrains Plugin Download" />
-        <img src="https://img.shields.io/jetbrains/plugin/r/stars/21589" alt="JetBrains Plugin Starts" />
+        <a href="https://img.shields.io/jetbrains/plugin/v/21589" target="_blank">
+            <img src="https://img.shields.io/jetbrains/plugin/v/21589" alt="JetBrains Plugin Version" />
+        </a>
+        <a href="https://img.shields.io/jetbrains/plugin/d/21589" target="_blank">
+            <img src="https://img.shields.io/jetbrains/plugin/d/21589" alt="JetBrains Plugin Download" />
+        </a>
+        <a href="https://img.shields.io/jetbrains/plugin/r/stars/21589" target="_blank">
+            <img src="https://img.shields.io/jetbrains/plugin/r/stars/21589" alt="JetBrains Plugin Starts" />
+        </a>
     </p>
 </div>
 
