@@ -28,7 +28,7 @@
 ## 简介|Intro
 
 `EasyTool` 是一个支持多平台的插件工具集，具有日常编程过程中常用的功能特性，包括但不限于中英文字符互转、
-中英互译、Swagger2.x 注解一键生成、JavaDoc注释一键生成、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗、Background
+中英互译、Swagger2.x、Swagger3.x 注解一键生成、JavaDoc注释一键生成、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗、Background
 Image Plus背景图轮播等功能特性。
 并提供一系列可视化、个性化的配置界面，
 具体功能可在安装插件后尽情体验。
@@ -85,9 +85,10 @@ Image Plus背景图轮播等功能特性。
         * 通义千问
         * 文心一言
         * 月之暗面-Kimi
-* 一键生成`Swagger2.x`注解
-    * 支持根据 `Javadoc` 生成 `Swagger2.x` 相关注解，如果没有 `Javadoc` 会尝试翻译处理(翻译可能会有点慢, 请耐心等待)
+* 一键生成`Swagger2.x`、`Swagger3.x`注解
+    * 支持根据 `Javadoc` 生成 `Swagger2.x`、`Swagger3.x` 相关注解，如果没有 `Javadoc` 会尝试翻译处理(翻译可能会有点慢, 请耐心等待)
     * 支持选中类名、方法名、字段名等细粒度一键生成
+    * 支持在 SwaggerView 弹窗中自由选中需要生成注解的类、方法、属性 (类似批量选中效果)
 * 一键生成 JavaDoc 注释
     * 支持一键生成指定类、方法、属性的JavaDoc注释，快捷键: `ALT + M`
     * 支持自定义JavaDoc生成模板及Groovy脚本值设置
