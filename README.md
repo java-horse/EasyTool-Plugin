@@ -28,10 +28,8 @@
 ## 简介|Intro
 
 `EasyTool` 是一个支持多平台的插件工具集，具有日常编程过程中常用的功能特性，包括但不限于中英文字符互转、
-中英互译、Swagger2.x、Swagger3.x 注解一键生成、JavaDoc注释一键生成、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗、Background
-Image Plus背景图轮播等功能特性。
-并提供一系列可视化、个性化的配置界面，
-具体功能可在安装插件后尽情体验。
+中英互译、Swagger2.x、Swagger3.x 注解一键生成、JavaDoc注释一键生成、一键导入YApi接口文档、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗、
+Background Image Plus背景图轮播等功能特性。并提供一系列可视化、个性化的配置界面， 具体功能可在安装插件后尽情体验。
 
 ## 安装|Install
 
@@ -81,6 +79,7 @@ Image Plus背景图轮播等功能特性。
         * 微软翻译（Free）
         * 谷歌翻译（API）
         * 谷歌翻译（Free）
+        * Libre翻译（Free）
     * 支持开源大模型翻译引擎
         * 通义千问
         * 文心一言
@@ -92,6 +91,7 @@ Image Plus背景图轮播等功能特性。
 * 一键生成 JavaDoc 注释
     * 支持一键生成指定类、方法、属性的JavaDoc注释，快捷键: `ALT + M`
     * 支持自定义JavaDoc生成模板及Groovy脚本值设置
+* 支持一键导入YApi接口文档, 包括YApi项目UI配置页面, 兼容各颗粒度范围导入(文件、类、接口)
 * `Mybatis Log`日志还原
     * 支持将Mybatis的Console控制台SQL执行日志自动还原为可读的SQL语句，可以自定义SQL还原过滤规则、可设置SQL脚本打印文本颜色
     * 支持选中SQL日志并右键启动SQL还原弹窗进行SQL还原转换处理
