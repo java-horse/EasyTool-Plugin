@@ -22,6 +22,18 @@
         <a href="https://img.shields.io/jetbrains/plugin/r/stars/21589" target="_blank">
             <img src="https://img.shields.io/jetbrains/plugin/r/stars/21589" alt="JetBrains Plugin Starts" />
         </a>
+        <a href="https://img.shields.io/github/languages/code-size/java-horse/EasyTool" target="_blank">
+            <img src="https://img.shields.io/github/languages/code-size/java-horse/EasyTool" alt="Code Size" />
+        </a>
+        <a href="https://img.shields.io/github/languages/count/java-horse/EasyTool" target="_blank">
+            <img src="https://img.shields.io/github/languages/count/java-horse/EasyTool" alt="Languages" />
+        </a>
+        <a href="https://img.shields.io/github/last-commit/java-horse/EasyTool" target="_blank">
+            <img src="https://img.shields.io/github/last-commit/java-horse/EasyTool" alt="Last Commit" />
+        </a>
+        <a href="https://img.shields.io/badge/Java-17-blue" target="_blank">
+            <img src="https://img.shields.io/badge/Java-17-blue" alt="JDK17" />
+        </a>
     </p>
 </div>
 
@@ -29,7 +41,7 @@
 
 `EasyTool` 是一个支持多平台的插件工具集，具有日常编程过程中常用的功能特性，包括但不限于中英文字符互转、
 中英互译、Swagger2.x、Swagger3.x 注解一键生成、JavaDoc注释一键生成、一键导入YApi接口文档、Mybatis Log 日志还原、Git 提交信息规范模板、Git Emoji 表情弹窗、
-Background Image Plus背景图轮播等功能特性。并提供一系列可视化、个性化的配置界面， 具体功能可在安装插件后尽情体验。
+Background Image Plus背景图轮播、代码块一键截图等功能特性。并提供一系列可视化、个性化的配置界面， 具体功能可在安装插件后尽情体验。
 
 ## 安装|Install
 
@@ -113,6 +125,7 @@ Background Image Plus背景图轮播等功能特性。并提供一系列可视�
 * 支持蛇形格式和驼峰格式互转
 * 支持选中文本右键快捷Web搜索
 * 支持当前打开文件的Tab标签高亮显示, 可在通用设置页面自定义高亮颜色
+* 支持选中代码块一键截图功能, 快捷键: `CTRL + ALT + 5`
 
 ## 示例|Example
 
