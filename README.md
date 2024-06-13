@@ -28,11 +28,25 @@
         <a href="https://img.shields.io/github/languages/count/java-horse/EasyTool" target="_blank">
             <img src="https://img.shields.io/github/languages/count/java-horse/EasyTool" alt="Languages" />
         </a>
+    </p>
+    <p>
         <a href="https://img.shields.io/github/last-commit/java-horse/EasyTool" target="_blank">
             <img src="https://img.shields.io/github/last-commit/java-horse/EasyTool" alt="Last Commit" />
         </a>
         <a href="https://img.shields.io/badge/Java-17-blue" target="_blank">
             <img src="https://img.shields.io/badge/Java-17-blue" alt="JDK17" />
+        </a>
+        <a href="https://img.shields.io/github/created-at/java-horse/EasyTool" target="_blank">
+            <img src="https://img.shields.io/github/created-at/java-horse/EasyTool" alt="Create At" />
+        </a>
+        <a href="https://img.shields.io/github/v/tag/java-horse/EasyTool" target="_blank">
+            <img src="https://img.shields.io/github/v/tag/java-horse/EasyTool" alt="Tag Version" />
+        </a>
+        <a href="https://img.shields.io/github/repo-size/java-horse/EasyTool" target="_blank">
+            <img src="https://img.shields.io/github/repo-size/java-horse/EasyTool" alt="Repo Size" />
+        </a>
+        <a href="https://img.shields.io/github/languages/top/java-horse/EasyTool" target="_blank">
+            <img src="https://img.shields.io/github/languages/top/java-horse/EasyTool" alt="Languages Rate" />
         </a>
     </p>
 </div>
