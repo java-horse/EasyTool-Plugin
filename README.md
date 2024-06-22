@@ -140,6 +140,7 @@ Background Image Plus背景图轮播、代码块一键截图等功能特性。�
 * 支持选中文本右键快捷Web搜索
 * 支持当前打开文件的Tab标签高亮显示, 可在通用设置页面自定义高亮颜色
 * 支持选中代码块一键截图功能, 快捷键: `CTRL + ALT + 5`
+* 支持Entity普通实体类批量生成JSON注解的View视窗, 快捷键: `CTRL + ALT + 6`
 
 ## 示例|Example
 
