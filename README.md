@@ -76,7 +76,7 @@ Background Image Plus背景图轮播、代码块一键截图等功能特性。�
 
 ## 特性|Feature
 
-以下列举特性不分优先级，均是日常编程过程中常用的功能特性
+以下列举特性不分优先级，均是日常编程过程中常用的功能特性。
 
 * 中英文字符互转
     * 支持编辑器全局的中文字符在编程过程中自动转为英文字符，可自定义字符映射关系和是否启动 `Other Settings` -> `EasyTool` -> `Convert`
@@ -145,7 +145,9 @@ Background Image Plus背景图轮播、代码块一键截图等功能特性。�
     * EXCEL解析
     * Timestamp时间戳
     * Base64转码
+    * Simple计算器（加、减、乘、除、取余、括号）
     * SQL日志还原
+    * Windows进程管理
 
 ## 示例|Example
 
