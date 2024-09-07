@@ -174,5 +174,8 @@ Git提交规范模板、Git Emoji表情弹窗、 BackgroundImagePlus背景轮播
 | 支付宝 |  ![支付宝](https://s11.ax1x.com/2024/02/01/pFMJwVO.png)  |
 | 公众号 | ![微信公众号](https://s11.ax1x.com/2024/02/01/pFMJaqK.jpg) |
 
+## 致敬|Tribute
+[EasyJavaDoc](https://plugins.jetbrains.com/plugin/12977-easy-javadoc)
+[SwaggerTools](https://plugins.jetbrains.com/plugin/14130-swagger-tools)
 
 
