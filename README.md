@@ -137,7 +137,7 @@ Git提交规范模板、Git Emoji表情弹窗、 BackgroundImagePlus背景轮播
     * 自动识别JDK版本生成不同规范的`serialVersionUID`
 * 支持自动复制接口完整URL，自动尝试获取项目端口号（自动尝试读取项目配置文件）
     * 支持自定义配置域名及端口，默认端口为`8080`
-* 支持CamelCase驼峰命名风格转换其他各种命名风格
+* 支持CamelCase驼峰命名风格转换其他各种命名风格(悬浮窗风格)
 * 支持当前打开文件的Tab标签高亮显示, 可在通用设置页面自定义高亮颜色
 * 支持选中代码块一键截图功能, 快捷键: `CTRL + ALT + 5`
     * 支持生成图片质量设置、水印设置
@@ -154,6 +154,7 @@ Git提交规范模板、Git Emoji表情弹窗、 BackgroundImagePlus背景轮播
     * SQL日志还原
     * Windows进程管理
     * JSON格式化
+    * Short短链接
 * 支持JSON一键转JSONTree视图，支持JSONPath表达式搜索，支持JSON一键转为Bean实体类
 
 ## 示例|Example
