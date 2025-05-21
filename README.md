@@ -1,5 +1,5 @@
 <div style="text-align: center; font-size: xxx-large; margin-top: 1em; margin-bottom: 0.5em;"> <strong>EasyTool</strong> </div>
-<div style="text-align: center;"> EasyTool 多功能插件工具集</div>
+<div style="text-align: center;"> EasyTool 多功能插件工具集 </div>
 <div style="text-align: center;">
     <p>
         <a href="https://gitee.com/milubin/easy-tool-plugin/badge/star.svg" target="_blank">
